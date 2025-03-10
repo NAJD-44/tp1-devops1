@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 fichier6.txt 
+=======
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3820-E2B3
+
+ Directory of C:\Users\najda\Desktop\EMSI\4IIRG4\DEVOPS\tp1
+
+03/10/2025  08:49 PM    <DIR>          .
+03/10/2025  08:31 PM    <DIR>          ..
+03/10/2025  08:44 PM                68 .gitattributes
+03/10/2025  08:49 PM                10 dev1.txt
+03/10/2025  08:44 PM               393 f1.txt
+03/10/2025  08:44 PM               414 f2.txt
+03/10/2025  08:34 PM               461 f3.txt
+03/10/2025  08:34 PM               508 f4.txt
+03/10/2025  08:34 PM               555 f5.txt
+03/10/2025  08:49 PM                 0 f6.txt
+               8 File(s)          2,409 bytes
+               2 Dir(s)  27,911,610,368 bytes free
+>>>>>>> feature
