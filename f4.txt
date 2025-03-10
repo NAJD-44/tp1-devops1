@@ -1,0 +1,13 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 3820-E2B3
+
+ Directory of C:\Users\najda\Desktop\EMSI\4IIRG4\DEVOPS\tp1
+
+03/10/2025  08:34 PM    <DIR>          .
+03/10/2025  08:31 PM    <DIR>          ..
+03/10/2025  08:34 PM               367 f1.txt
+03/10/2025  08:34 PM               414 f2.txt
+03/10/2025  08:34 PM               461 f3.txt
+03/10/2025  08:34 PM                 0 f4.txt
+               4 File(s)          1,242 bytes
+               2 Dir(s)  27,902,521,344 bytes free
